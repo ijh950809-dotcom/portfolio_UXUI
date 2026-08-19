@@ -193,9 +193,9 @@ nav ul li:hover {
   animation-delay: 1.8s;
 }
 
-.pf span:last-child {
+/* .pf span:last-child {
   animation-delay: 1.9s;
-}
+} */
 
 @keyframes fadeUp {
   from {
